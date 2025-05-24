@@ -1,6 +1,4 @@
 <h1 align="center">Hi WORLD👋, I'm Zidhan</h1>
-<h3 align="center">I am an informatics engineering student at jambi nation dynamics university. i have an interest in technology development and innovation development, i like to learn new things with high passion by focusing on data analyst, programming, and application development where i can utilize my knowledge in other fields. i am constantly looking for learning opportunities and opening my horizons to get new connections in the technology industry.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan&label=Profile%20views&color=0e75b6&style=flat" alt="dan" /> </p>
 
 - 📫 How to reach me **zidanapriansyah23@gmail.com**
